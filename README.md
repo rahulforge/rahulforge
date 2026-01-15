@@ -1,48 +1,67 @@
-<h2 align="center">Hi there 👋, I’m Rahul Kumar</h2>
-<h4 align="center">Full-Stack Web Developer · Builder at RahulForge</h4>
+## Hi there 👋 I’m Rahul Kumar
+
+I’m a Full-Stack Web Developer and BCA graduated who loves building real-world web products.  
+I work under the brand **RahulForge** — a place where ideas are built into usable systems.
+
+- 🔭 I’m currently working on full-stack web applications  
+- 🌱 I’m improving my skills in scalable systems  
+- 🤝 Open to internships, collaborations, and real-world projects  
+- ⚡ Fun fact: I enjoy turning simple ideas into complete products  
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahulforge&show_icons=true&theme=radical" alt="Rahul's GitHub stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulforge&layout=compact&theme=radical" alt="Rahul's top languages" />
+
+</div>
+
+---
+
+## 📈 Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rahulforge/rahulforge/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-I build real-world web products and turn ideas into usable systems.  
-<b>RahulForge</b> is my workshop — where learning becomes creation.
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,git,github,netlify,vercel,postman" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 Projects & Highlights
 
-- 💻 Full-Stack Web Developer  
-- 🎓 BCA Student (IGNOU, 2025)  
-- 🧠 Passionate about building practical products  
-- 🚀 I enjoy turning ideas into real applications  
-- 📍 Based in India  
+### 📍 Major Projects
 
-- 🌱 Currently sharpening my skills in Full-Stack systems  
-- 🤝 Open to collaboration, internships, and real-world projects  
-- 💬 Ask me about JavaScript, React, Node.js, or MongoDB  
-- ⚡ Fun fact: I love building tools that actually help people  
-
----
-
-### 🛠 Tech I Use
-
-`JavaScript` `Python` `C++`  
-`HTML` `CSS` `React` `next`
-`Node.js` `Express`  
-`MongoDB` `MySQL`  
-`Git` `GitHub` `Vercel` `Netlify` `Render`
-
----
-
-### 🚀 Projects
-
-- **StudyHub** – Learning platform for students  
-  *React · Node.js · MongoDB*
-
-- **VRSC Tools** – PDF & Image utility tools  
-  *React*
-
-- **LKD Classes** – Education management system  
-  *Next.js · Express · MongoDB*
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>📚 StudyHub</strong><br>
+      <em>Learning platform for students</em><br>
+      <a href="https://studyhub.org.in" target="_blank">Live ↗</a> ·
+    </td>
+    <td align="center" width="33%">
+      <strong>🛠 VRSC Tools</strong><br>
+      <em>PDF & Image utility tools</em><br>
+      <a href="https://vrsctools.dev" target="_blank">Live ↗</a> ·
+    </td>
+    <td align="center" width="33%">
+      <strong>🏫 LKD Classes</strong><br>
+      <em>Education management system</em><br>
+      <a href="https://lkdclasses.netlify.app" target="_blank">Live ↗</a> ·
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -56,17 +75,15 @@ I build real-world web products and turn ideas into usable systems.
 
 ---
 
-<div align="center">
+## 📫 Connect
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahulforge&show_icons=true&theme=dark&hide_border=true" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulforge&layout=compact&theme=dark&hide_border=true" />
-
-</div>
-
----
-
-<h3 align="center">Let’s build something meaningful 🚀</h3>
 <p align="center">
-From learning to launching — this is RahulForge.
+  <a href="mailto:ry956371@gmail.com">📧 Email</a> ·
+  <a href="https://linkedin.com/in/buildwithrahul">🔗 LinkedIn</a>
+</p>
+
+<p align="center">
+  <i>RahulForge — where ideas become systems.</i>
+</p>
+
 </p>
